@@ -16,7 +16,3 @@ The process is also included in the jupyter notebook file [*web_scrapping_restau
 Output file in form dataset as .csv file [*dataset_berlin_restaurants.csv*](https://github.com/Zandersan/Beautiful-Soup/blob/main/dataset_berlin_restaurants.csv).
 
 The new created dataset was used to further analysis. 
-
-## Visualisation
-
-The gathered data was used to create an [*interactive map of restaurants in Berlin*]() in Tableau Public.
